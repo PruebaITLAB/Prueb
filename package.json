@@ -9,7 +9,7 @@
     "pug": "^2.0.4"
   },
   "devDependencies": {
-    "typescript" : "1.7.2"
+    "typescript" : "3.7.2"
   },
   "scripts": {
     "start": "node main.js",
